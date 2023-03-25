@@ -1,6 +1,5 @@
 # Blender v2.93.1 OBJ File: 'Shroom.blend'
 # www.blender.org
-mtllib Shroom.mtl
 o Shroom_low_Skin_ZSphere_5.001
 v -0.059654 0.051078 0.482928
 v -0.052067 0.320385 0.535362
@@ -7998,7 +7997,6 @@ vn 0.8300 -0.5556 0.0494
 vn 0.8969 0.2910 0.3330
 vn 0.0000 -0.3054 0.9522
 vn 0.5989 -0.1688 0.7828
-usemtl Skin_ZSphere_5.001
 s 1
 f 1/1/1 36/2/2 37/3/3
 f 37/3/3 39/4/4 1/1/1
